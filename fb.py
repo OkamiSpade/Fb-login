@@ -73,4 +73,4 @@ def login():
 	except requests.exceptions.ConnectionError:sys.exit('No internet')
 	
 if __name__ == "__main__":
-    login()￼Enter
+    login()￼
